@@ -13,7 +13,7 @@ pip install mujoco
 then clone the repository to mujoco_ur5e folder
 
 ```
-git clone https://github.com/abuibaid/mujoco-model-of-ur5e-with-robotiq-2f-85.git mujoco_ur5e
+git clone https://github.com/abuibaid/mujoco_ur5e_robotiq_2f85.git
 ```
 
 then call the folder using the following command
